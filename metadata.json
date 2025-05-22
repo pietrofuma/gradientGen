@@ -1,0 +1,5 @@
+{
+  "name": "Simple Gradient Generator",
+  "description": "A React application to create and customize CSS gradients with real-time preview and CSS code output. Control color stops, gradient type (linear/radial), angle, and more.",
+  "requestFramePermissions": []
+}
